@@ -1,0 +1,21 @@
+[2024-05-13 17:04:19] [info] Start Program:
+Path:"C:\Alpine Studio\ObjectOrientedP\QtWidgetsTCNMD\x64\Debug\QtWidgetsTCNMD.exe"
+Arguments:
+Working directory: "C:\Alpine Studio\ObjectOrientedP\QtWidgetsTCNMD\"
+Modules: Selected: C:\Alpine Studio\ObjectOrientedP\QtWidgetsTCNMD\x64\Debug\QtWidgetsTCNMD.exe Excluded: 
+Sources: Selected: C:\Alpine Studio\ObjectOrientedP\QtWidgetsTCNMD Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\Codrin\AppData\Local\Temp\itwjhscm.q11 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2024-05-13 17:04:19] [info] Module: C:\Alpine Studio\ObjectOrientedP\QtWidgetsTCNMD\x64\Debug\QtWidgetsTCNMD.exe is selected because it matches selected pattern: C:\Alpine Studio\ObjectOrientedP\QtWidgetsTCNMD\x64\Debug\QtWidgetsTCNMD.exe
+[2024-05-13 17:04:19] [info] ----------------------------------------------------
+[2024-05-13 17:04:19] [info] Coverage binary generated in file: C:\Users\Codrin\AppData\Local\Temp\itwjhscm.q11
+[2024-05-13 17:04:19] [info] ----------------------------------------------------

@@ -1,0 +1,13 @@
+﻿  Reading Qt configuration (C:/Qt/6.5.3/msvc2019_64/bin/qmake)
+  entity.cpp
+  validator.cpp
+  main.cpp
+  MyModel.cpp
+  dataBase.cpp
+  service.cpp
+  undo.cpp
+  teste.cpp
+  gui.cpp
+  ui.cpp
+  LINK : D:\Facultate\ObjectOrientedP\QtWidgetsTCNMD\x64\Debug\QtWidgetsTCNMD.exe not found or not built by the last incremental link; performing full link
+  QtWidgetsTCNMD.vcxproj -> D:\Facultate\ObjectOrientedP\QtWidgetsTCNMD\x64\Debug\QtWidgetsTCNMD.exe
